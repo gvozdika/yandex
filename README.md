@@ -1,3 +1,3 @@
-node yandex.js board.json
-OR
-node yandex.js
+node yandex.js board.json  
+OR  
+node yandex.js  
